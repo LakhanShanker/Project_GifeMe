@@ -36,7 +36,7 @@ function Gform() {
 <div className="collapse" id="collapseExample">
   
   <div className="card-body" 
-  style={ !isMobile ? {marginTop:'10px', marginLeft:'330px', border:'2px solid #7c0000', textAlign:'center',width:'600px', height:'520px'}:{marginTop:'10px'}}>
+  style={ !isMobile ? {marginTop:'10px', marginLeft:'330px', border:'2px solid #7c0000', textAlign:'center',width:'600px', height:'520px'}:{}}>
     <form className='container'>
   <fieldset className="form-group" >
     <div className="row" style={{marginTop:'10px'}}>
