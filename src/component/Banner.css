@@ -1,0 +1,12 @@
+.carousel-item {
+    height: 300px;
+    object-fit:contain;
+  }
+  
+  .carousel-item img {
+      position: absolute;
+      height: 300px;
+      top: 0;
+      left: 0;
+      min-height: 300px;
+  }
